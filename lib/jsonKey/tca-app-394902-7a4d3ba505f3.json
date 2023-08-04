@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tca-app-394902",
+  "private_key_id": "7a4d3ba505f3f7292db588a35c13d7dc29db0ef7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCG1INjtWmbAF/+\nJAFbyUD+u0svRKpqzY3aYolN27DNPRFeOn8KMXe3VMaeoTA5uTRSJqr6GCQfsCk1\nB7fW1t0IIyWhsK2cSgbYO0l3dMSFxwC6bH7Wzw32Z8/PF2ysbLJtDRZ6xlCPmvmr\nyV9maAYD2wLfBs/wxdPVemjmm1L1CMSN2GC8aDyR9RDHiOtPcO7evLPjSmjo+8fF\n3fWc6lNE7jE3QtQKIgpWQl3awMZmcKVxX0PWtUVWOXfA/5NJq5VRJ4CuvAT2+6hF\nrBCVXsYsUz6XtsBwCS+BTuunMvX8oCgI/07wRgTfO0XR+qO/t4q2IxljA0LfS1BV\n6VDt6kgrAgMBAAECggEACSEbkmVGtMmWNlmOw/3BCl55LUareVbYu4g/fseY1ZTE\nd8pjLrgBwKabWkNUxhvNuKBIpG19CK4/ZAlVP9VFmxbyJdwWLUZv5zVAeLet1NcQ\nLA9LmVTkv6Hw1rdh0tz7SdoAgyipbMfUDvcwH/l8KseqDprh+o4SlVpX/wFWYSPx\nLeLcbnS9taJWvzAtCKFaMIaW6fsakBH9Hej/s8h/Zo8oIa2aGF7uU9WfQp2deDtG\nzPjgWzBXr2TbSS0t2SV4MtSO6b6CLXXYzWUxrdYNu4o6IvsAxwBnKGYf8J7Qrmi+\nA5uSS4MyTubc6ZLGfzsgPmjE3bDibUe2Ck7BoF4JhQKBgQC74tr/61EIOsbg3Zj3\n/iRA319EyK2l+MeDgC0Chq3fL05ZNQGxJv84CRBKS1CI4SKgKCLqUiwFXFvnpcBt\n8h2dG45zXleyWI/XrukHMXKbSyNMHW9knyBM2QGdmQ2DrD32qPrUKrejMxVI6TS4\n+eyWFlTbmEgVhajObX11BzJSNQKBgQC3tbBfU855+tDSkdHwVDDMAOCuu2wvEYRq\nlZXbiHN6r8xIdNepte8taGZAbfTdclbfzU6eVppy5x0giCOKKmTJqjuFsicAq/oX\npjG1/1rtuQIo7Nfi7RS4f1NfJXA5copg5D0Fgvt0gKtDS3+7o7DaK9kDeDDjF+ry\noiM7HJd83wKBgGAZs6xsv0C3V5wSnDhUTFTGK+Nxxaf77IitWdhN7McYWjm0rA3h\nhW8y65sklKe+h8hlXx59Mzj2uadtl1RlH5KJUr5dxftZ4xENzPE58IXP09kNwTk1\nTv8fi/0BGPF9eyAb5Ff7FXyrFzr41Ve7tbA68eJ0LIKdn+8d/6qJKMr1AoGAOy+D\n5RJhARd3U3+7PUxCdFcMC/9B+WARYy1SHGo3mh0tGWLbYEfHCMALwVIrg3Sk3HGO\nlKCeHcqrraFuocLKudXoW0hsHGFLr3bRqSrdppzmPz0eyHNNK6uJtqufHkLypgii\nSDZMwNn7UzDttAwmnANoZR/B0EgSX50w8Ihjnc0CgYBmF/OcQ3vqbbuHxstpIRrN\n7SL2HtkDtUCcNGYP5fbEpeayajVjRrc+wSpEhHzes3VZ2eo0V3cpP87gtprcrrJG\nno8eAyUCOOV2HBf7XH6YAoOrrlOBH5h6BQgjvFn9X/GcV5hLSiggniHeAK+1FCen\n7n5pua1fT/NxxKFUis+X6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tcaserviceaccount@tca-app-394902.iam.gserviceaccount.com",
+  "client_id": "116695205405219422250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tcaserviceaccount%40tca-app-394902.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
